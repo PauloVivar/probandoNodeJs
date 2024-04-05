@@ -1,3 +1,3 @@
 # probandoNodeJs
-Probando node JS
+Probando node JS.
 Se prueba como BACKEND NODE.JS
